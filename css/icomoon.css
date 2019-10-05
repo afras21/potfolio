@@ -1493,6 +1493,7 @@
 }
 .icon-google:before {
   content: "\eab8";
+  color: #000;
 }
 .icon-google2:before {
   content: "\eab9";
@@ -1517,12 +1518,15 @@
 }
 .icon-facebook2:before {
   content: "\eac0";
+  color: #000;
 }
 .icon-facebook22:before {
   content: "\eac1";
+  color: #000;
 }
 .icon-instagram:before {
   content: "\eac2";
+  color: #000;
 }
 .icon-whatsapp:before {
   content: "\eac3";
@@ -1688,6 +1692,7 @@
 }
 .icon-linkedin2:before {
   content: "\eaf9";
+  color: #000;
 }
 .icon-linkedin22:before {
   content: "\eafa";
